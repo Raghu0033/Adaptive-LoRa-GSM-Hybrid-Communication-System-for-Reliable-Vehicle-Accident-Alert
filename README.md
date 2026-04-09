@@ -1,11 +1,12 @@
 # Adaptive-LoRa-GSM-Hybrid-Communication-System-for-Reliable-Vehicle-Accident-Alert
+
 Adaptive LoRa &amp; GSM Hybrid Communication System for Reliable Vehicle Accident Alert
 
-#GSM-based Accident Detection System Works
+# GSM-based Accident Detection System Works
 detect Accident with __single sensor value (> Threshold) and GSM based communication__ .
 
 
-#Working Flow (Step-by-step)
+# Working Flow (Step-by-step)
 ### 1. Accident Detection 
 Sensors detect: \
 Sudden impact (vibration sensor) \
@@ -31,7 +32,6 @@ __SMS to family / ambulance / police__ \
 Includes: \
 Location link (Google Maps) \
 Time of accident 
-
 
 
 
